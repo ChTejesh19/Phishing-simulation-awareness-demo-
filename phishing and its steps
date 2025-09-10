@@ -1,0 +1,39 @@
+What is phishing?
+
+A phishing attack is a fraudulent email, text, or voice message designed to trick people into:
+•	Downloading malware (e.g., ransomware)
+•	Revealing sensitive information (usernames, passwords, credit card details)
+•	Sending money to cybercriminals
+🔹 How Does a Phishing Simulation Work?
+•	Employees receive mock phishing emails that look like real ones.
+•	Messages use social engineering tactics (urgency, impersonation, fake invoices).
+•	If employees click a link, download an attachment, or enter details, they fail the test (but no harm is done).
+•	Some simulations redirect employees to a training page showing tips to avoid phishing in the future.
+🔹 Why is it Important?
+•	Tests real-world readiness
+•	Identifies employees who need more training
+•	Collects useful metrics (e.g., click rates, report rates)
+•	Improves overall cybersecurity awareness
+
+
+Steps for phishing
+
+1. Planning
+•	Define objectives and scope of the simulation.
+•	Decide on the type of phishing emails (e.g., fake invoices, password resets, urgent requests).
+•	Set the frequency of tests (one-time, monthly, quarterly).
+•	Select the target audience (all employees, departments, or executives).
+2. Drafting
+•	Create realistic phishing emails modelled after real-world attacks.
+•	Use details like subject lines, sender addresses, and content formatting.
+•	Apply social engineering tactics such as urgency, fear, or executive impersonation to increase believability.
+3. Sending
+•	Deploy simulated phishing emails securely to the target audience.
+•	Ensure employee privacy while running the test.
+4. Monitoring
+•	Track how employees interact with emails.
+•	Record actions such as clicking links, downloading attachments, or sharing sensitive data.
+5. Analyzing & Feedback
+•	Review collected data (e.g., click rates, report rates, response times).
+•	Identify security vulnerabilities and high-risk groups.
+•	Provide immediate feedback and training to employees who failed the test.
